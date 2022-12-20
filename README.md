@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Vlad Dragan**
+- 👋 Hi, I’m **Vlad Alexandru**
 - 👀 I’m interested in embedded world of space industry.
 - 🌱 I’m currently learning ``Rust`` in order to expand my industry knwledge. 
 - 💞️ I’m looking to collaborate on any embedded activities.
